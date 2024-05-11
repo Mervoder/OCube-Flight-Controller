@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=+5 Pin=C?-2
+Removed Pin From Net: NetName=+5 Pin=P4-2
+Removed Pin From Net: NetName=+5 Pin=P4-4
+Removed Pin From Net: NetName=+5 Pin=P4-6
+Removed Pin From Net: NetName=NetP1_5 Pin=P4-7
+Removed Pin From Net: NetName=+5 Pin=P4-8
+Removed Member From Class: ClassName=FC_board Member=P4
+Added Component: Designator=BZ?(BUZZER)
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/25800/cl21b105kbfnnne-25800291.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/25800/cl21b105kbfnnne-25800291.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16449/cl21b105kbfnnne-16449003.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16449/cl21b105kbfnnne-16449003.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/26838/getdatasheetpartid-354075-26838668.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/26838/getdatasheetpartid-354075-26838668.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Oðuzhan EÞEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL21B105KBFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,11000, 10=0,07900, 50=0,04500, 100=0,03730, 500=0,02616, 1000=0,02165 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "257617"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1029-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=J?(JST_5PIN_125)
+Added Component: Designator=J?(JST_5PIN_125)
+Added Component: Designator=J?(MOTORS)
+Added Component: Designator=J?(HEADER_4_MALE)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=R?(RESC2013X50X30LL20T20)
+Add Component: Footprint Not Found IC_BNO080
+Add Component: Footprint Not Found IC_BNO080
+Add Component: Footprint Not Found XTAL_HC49P488W43L1085T450H368
+Add Component: Footprint Not Found XTAL_CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC
+Add Component: Footprint Not Found XTAL_CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3.3 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=NetP1_5 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-13
+Added Pin To Net: NetName=GND Pin=J?-14
+Added Pin To Net: NetName=GND Pin=J?-15
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=Q?-2
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Pin To Net: Unknown Pin: Pin U5-14
+Add Pin To Net: Unknown Pin: Pin U5-17
+Add Pin To Net: Unknown Pin: Pin U5-18
+Add Pin To Net: Unknown Pin: Pin U5-19
+Add Pin To Net: Unknown Pin: Pin U5-20
+Add Pin To Net: Unknown Pin: Pin U5-25
+Add Pin To Net: Unknown Pin: Pin U5-26
+Add Pin To Net: Unknown Pin: Pin U5-27
+Add Pin To Net: Unknown Pin: Pin U5-28
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Pin To Net: Unknown Pin: Pin U6-17
+Add Pin To Net: Unknown Pin: Pin U6-18
+Add Pin To Net: Unknown Pin: Pin U6-19
+Add Pin To Net: Unknown Pin: Pin U6-20
+Add Pin To Net: Unknown Pin: Pin U6-25
+Add Pin To Net: Unknown Pin: Pin U6-28
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetJ?_1
+Added Pin To Net: NetName=+VCC Pin=J?-7
+Added Pin To Net: NetName=+VCC Pin=J?-8
+Added Pin To Net: NetName=+VCC Pin=J?-9
+Added Pin To Net: NetName=+VCC Pin=J?-10
+Added Pin To Net: NetName=+VCC Pin=J?-11
+Added Pin To Net: NetName=+VCC Pin=J?-12
+Added Net: Name=+VCC
+Added Pin To Net: NetName=5VDC Pin=BZ?-1
+Added Pin To Net: NetName=5VDC Pin=C?-2
+Added Net: Name=5VDC
+Added Net: Name=Buzzer
+Added Pin To Net: NetName=NetBZ?_2 Pin=BZ?-2
+Added Pin To Net: NetName=NetBZ?_2 Pin=Q?-3
+Added Net: Name=NetBZ?_2
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U1-45
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=U1-46
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Net: Name=NetJ?_4
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=FC_board Member=Component BZ? MB9650B05NP
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 2.2uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER  0.1uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER  0.1uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 10nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER  0.1uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 10uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 10uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component J? GPS_JST_5PIN
+Added Member To Class: ClassName=FC_board Member=Component J? TELEM_JST_5PIN
+Added Member To Class: ClassName=FC_board Member=Component J? Motor_Outputs
+Added Member To Class: ClassName=FC_board Member=Component J? STLINK
+Added Member To Class: ClassName=FC_board Member=Component Q? BC817-40-HT
+Add Class Member: Failed to add class member : Component R? 100
+Add Class Member: Failed to add class member : Component U5 BNO080
+Add Class Member: Failed to add class member : Component U6 BNO080
+Add Class Member: Failed to add class member : Component Y1 ATS08A-E
+Add Class Member: Failed to add class member : Component Y2 C
+Add Class Member: Failed to add class member : Component Y3 C
+Added Room: Name=FC_board

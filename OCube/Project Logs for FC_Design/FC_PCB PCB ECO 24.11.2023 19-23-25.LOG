@@ -1,0 +1,41 @@
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=R4(RESC2013X50X30LL20T20)
+Add Component: Footprint Not Found IC_BNO080
+Add Component: Footprint Not Found XTAL_HC49P488W43L1085T450H368
+Add Component: Footprint Not Found XTAL_CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Pin To Net: Unknown Pin: Pin U6-17
+Add Pin To Net: Unknown Pin: Pin U6-18
+Add Pin To Net: Unknown Pin: Pin U6-19
+Add Pin To Net: Unknown Pin: Pin U6-20
+Add Pin To Net: Unknown Pin: Pin U6-25
+Add Pin To Net: Unknown Pin: Pin U6-26
+Add Pin To Net: Unknown Pin: Pin U6-27
+Add Pin To Net: Unknown Pin: Pin U6-28
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Added Member To Class: ClassName=FC_board Member=Component C12 CAP CER 10nF 0805
+Add Class Member: Failed to add class member : Component C16 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component C19 CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component J2 TELEM_JST_5PIN
+Add Class Member: Failed to add class member : Component R4 100
+Add Class Member: Failed to add class member : Component U6 BNO080
+Add Class Member: Failed to add class member : Component Y1 ATS08A-E
+Add Class Member: Failed to add class member : Component Y3 C

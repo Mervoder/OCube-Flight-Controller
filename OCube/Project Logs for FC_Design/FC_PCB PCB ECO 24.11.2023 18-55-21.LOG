@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=3.3 Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=3.3 Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=3.3 Pin=R4-1
+Removed Pin From Net: NetName=3.3 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=NetJ?_1 Pin=U4-4
+Removed Pin From Net: NetName=NetJ?_1 Pin=U4-5
+Removed Pin From Net: NetName=NetU1_16 Pin=U4-6
+Removed Pin From Net: NetName=NetU1_17 Pin=U4-7
+Removed Pin From Net: NetName=NetU1_15 Pin=U4-8
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=J?(JST_2PIN_2.54)
+Added Component: Designator=R?(RESC2013X50X30LL20T20)
+Add Component: Footprint Not Found IC_BNO080
+Add Component: Footprint Not Found XTAL_HC49P488W43L1085T450H368
+Add Component: Footprint Not Found XTAL_CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC
+Added Pin To Net: NetName=3.3 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-11
+Add Pin To Net: Unknown Pin: Pin U6-14
+Add Pin To Net: Unknown Pin: Pin U6-17
+Add Pin To Net: Unknown Pin: Pin U6-18
+Add Pin To Net: Unknown Pin: Pin U6-19
+Add Pin To Net: Unknown Pin: Pin U6-20
+Add Pin To Net: Unknown Pin: Pin U6-25
+Add Pin To Net: Unknown Pin: Pin U6-28
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER  0.1uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER  0.1uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 10nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 10uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 10uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER  0.1uF 0805
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CL21B105KBFNNNE
+Added Member To Class: ClassName=FC_board Member=Component C? CAP CER 2.2uF 0805
+Added Member To Class: ClassName=FC_board Member=Component J? STLINK
+Added Member To Class: ClassName=FC_board Member=Component J? GPS_JST_5PIN
+Added Member To Class: ClassName=FC_board Member=Component J? Motor_Outputs
+Added Member To Class: ClassName=FC_board Member=Component J? TELEM_JST_5PIN
+Add Class Member: Failed to add class member : Component R? 100
+Add Class Member: Failed to add class member : Component U6 BNO080
+Add Class Member: Failed to add class member : Component Y1 ATS08A-E
+Add Class Member: Failed to add class member : Component Y3 C
+Change Room Name: Old Name=sensors New Name=FC_board
+Change Room Scope: Old Scope=InComponentClass('sensors') New Scope=InComponentClass('FC_board')

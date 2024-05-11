@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3.3 Pin=J1-5
+Removed Pin From Net: NetName=+5 Pin=J1-6
+Added Pin To Net: NetName=+5 Pin=J1-4
+Added Pin To Net: NetName=3.3 Pin=J1-6
+Added Room: Name=FC_board

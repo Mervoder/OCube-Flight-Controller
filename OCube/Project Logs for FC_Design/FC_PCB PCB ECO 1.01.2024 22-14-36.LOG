@@ -1,0 +1,4 @@
+Added Component: Designator=s(PIN_2.54)
+Added Pin To Net: NetName=3.3 Pin=s-1
+Added Pin To Net: NetName=NetR4_2 Pin=s-2
+Added Member To Class: ClassName=FC_board Member=Component s HEADERX2

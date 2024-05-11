@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=3.3 Pin=R5-1
+Removed Pin From Net: NetName=NetR5_2 Pin=U?-4
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X50X30LL20T20 New Footprint=RES_0805
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=2.2k
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=78462138-499A-4A0D-A527-3027AB8F838F New ItemGUID= Old RevisionGUID=B8426C4C-D616-46EA-83DD-42D624EF6A27 New RevisionGUID=
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC2013X50X30LL20T20"; UniqueID = "\OTKYRQBK" ("\OTKYRQBK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "RC0805FR-07910RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Rohm Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0805FR-07910RL/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=R4(RES_0805)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07910RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0805FR-07910RL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07910RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0805FR-07910RL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07910RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0805FR-07910RL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CRYSTAL_32_15
+Added Component: Designator=Y2(ABM3-8.000MHZ-D2Y-T)
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R6-1
+Added Pin To Net: NetName=Buzzer Pin=R6-2
+Added Pin To Net: NetName=3.3 Pin=R7-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-27
+Added Pin To Net: NetName=NetR5_2 Pin=U4-20
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Added Pin To Net: NetName=NetC14_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC9_2 Pin=Y2-2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-26
+Added Pin To Net: NetName=NetR4_2 Pin=U4-19
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U4-4
+Added Net: Name=NetR7_1
+Add Class Member: Failed to add class member : Component C16 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component C19 CAP CER 100nF 0805
+Added Member To Class: ClassName=FC_board Member=Component R4 2.2k
+Added Member To Class: ClassName=FC_board Member=Component R6 100
+Added Member To Class: ClassName=FC_board Member=Component R7 10k
+Add Class Member: Failed to add class member : Component Y1 32.768kHz
+Added Member To Class: ClassName=FC_board Member=Component Y2 8.000MHZ

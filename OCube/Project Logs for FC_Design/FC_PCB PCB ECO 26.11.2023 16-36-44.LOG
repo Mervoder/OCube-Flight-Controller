@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=DS1 Old Footprint=AVAG-HSMX-C170_V New Footprint=GREEEN_LED_0805
+Change Component Footprint: Designator=DS2 Old Footprint=AVAG-HSMX-C170_V New Footprint=GREEEN_LED_0805
+Change Component Comment : Designator=DS1 Old Comment=LED New Comment=green led
+Change Component Comment : Designator=DS2 Old Comment=LED New Comment=green led
+Change Managed Component Library Link : Designator=DS1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6586266A-2BAF-453B-A174-74DD878AECA4 New ItemGUID= Old RevisionGUID=735C43E6-5B23-4A53-A6DA-C17017847BD9 New RevisionGUID=
+Change Managed Component Library Link : Designator=DS2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=6586266A-2BAF-453B-A174-74DD878AECA4 New ItemGUID= Old RevisionGUID=735C43E6-5B23-4A53-A6DA-C17017847BD9 New RevisionGUID=
+Change component parameters: Designator = "DS1" ("DS1"); Footprint = "AVAG-HSMX-C170_V"; UniqueID = "\RMQRMZJD" ("\RMQRMZJD")
+Change component parameters: Designator = "DS2" ("DS2"); Footprint = "AVAG-HSMX-C170_V"; UniqueID = "\XPKAKFEZ" ("\XPKAKFEZ")
+Added Component: Designator=U(SON125P300X500X100-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MS560702BA03-50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MS560702BA03-50/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/480584/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-MS560702BA03-50.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(CRYSTAL_32_15)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FC-135/EPSON/view-part/491615/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "EPSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FC-135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FC-135/EPSON/view-part/491615/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC6_2 Pin=Y1-2
+Added Pin To Net: NetName=NetU3_15 Pin=U-8
+Added Pin To Net: NetName=NetU3_15 Pin=U3-15
+Added Pin To Net: NetName=NetU3_15 Pin=U4-2
+Added Net: Name=NetU3_15
+Added Pin To Net: NetName=NetU3_16 Pin=U-6
+Added Pin To Net: NetName=NetU3_16 Pin=U3-16
+Added Pin To Net: NetName=NetU3_16 Pin=U4-4
+Added Net: Name=NetU3_16
+Added Pin To Net: NetName=NetU3_17 Pin=U-7
+Added Pin To Net: NetName=NetU3_17 Pin=U3-17
+Added Pin To Net: NetName=NetU3_17 Pin=U4-3
+Added Net: Name=NetU3_17
+Added Pin To Net: NetName=NetU_4 Pin=U-4
+Added Pin To Net: NetName=NetU_4 Pin=U-5
+Added Net: Name=NetU_4
+Added Member To Class: ClassName=FC_board Member=Component U MS560702BA03-50
+Added Member To Class: ClassName=FC_board Member=Component Y1 32.768kHz

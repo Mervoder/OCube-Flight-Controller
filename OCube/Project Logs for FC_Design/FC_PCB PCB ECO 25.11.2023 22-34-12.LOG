@@ -1,0 +1,48 @@
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=R4(RESC2013X50X30LL20T20)
+Added Component: Designator=U?(BNO080)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1888-1000-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/hillcrest-laboratories-inc/BNO080/1888-1000-1-ND/7917169?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hillcrest Laboratories,"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BNO080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TFLGA-28 Hillcrest Laboratories,"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BNO080/Hillcrest%20Laboratories%2C%20Inc./view-part/2769909/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_HC49P488W43L1085T450H368
+Add Component: Footprint Not Found XTAL_CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC
+Added Pin To Net: NetName=GND Pin=C6-1
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=3.3 Pin=U?-3
+Added Pin To Net: NetName=NetR5_2 Pin=U?-4
+Added Pin To Net: NetName=3.3 Pin=U?-5
+Added Pin To Net: NetName=NetU1_29 Pin=U?-6
+Added Pin To Net: NetName=NetC6_2 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=NetU1_30 Pin=U?-11
+Added Pin To Net: NetName=NetU1_31 Pin=U?-14
+Added Pin To Net: NetName=NetU1_28 Pin=U?-17
+Added Pin To Net: NetName=NetU1_25 Pin=U?-18
+Added Pin To Net: NetName=NetU1_26 Pin=U?-19
+Added Pin To Net: NetName=NetU1_27 Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=NetC7_2 Pin=U?-26
+Added Pin To Net: NetName=NetC5_2 Pin=U?-27
+Added Pin To Net: NetName=3.3 Pin=U?-28
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Add Class Member: Failed to add class member : Component C16 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component C19 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component R4 100
+Added Member To Class: ClassName=FC_board Member=Component U? BNO080
+Add Class Member: Failed to add class member : Component Y1 ATS08A-E
+Add Class Member: Failed to add class member : Component Y3 C
+Added Room: Name=FC_board

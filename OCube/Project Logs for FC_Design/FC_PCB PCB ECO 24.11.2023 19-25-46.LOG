@@ -1,0 +1,21 @@
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Added Component: Designator=R4(RESC2013X50X30LL20T20)
+Add Component: Footprint Not Found XTAL_HC49P488W43L1085T450H368
+Add Component: Footprint Not Found XTAL_CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y3-1
+Add Pin To Net: Unknown Pin: Pin Y3-2
+Add Class Member: Failed to add class member : Component C16 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component C19 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component R4 100
+Add Class Member: Failed to add class member : Component Y1 ATS08A-E
+Add Class Member: Failed to add class member : Component Y3 C
+Added Room: Name=FC_board

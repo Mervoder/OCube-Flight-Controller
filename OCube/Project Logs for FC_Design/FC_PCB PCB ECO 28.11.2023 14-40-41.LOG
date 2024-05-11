@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=U3-32
+Removed Pin From Net: NetName=NetJ1_2 Pin=U3-33
+Removed Pin From Net: NetName=NetJ3_2 Pin=U3-38
+Removed Pin From Net: NetName=NetJ3_3 Pin=U3-39
+Added Component: Designator=R6(RES_0805)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07910RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2012 Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RC0805FR-07910RL/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetJ3_2 Pin=U3-32
+Added Pin To Net: NetName=NetJ3_3 Pin=U3-33
+Added Pin To Net: NetName=NetJ1_1 Pin=U3-40
+Added Pin To Net: NetName=NetJ1_2 Pin=U3-41
+Added Pin To Net: NetName=NetJ4_5 Pin=J4-5
+Added Pin To Net: NetName=NetJ4_5 Pin=U3-38
+Added Net: Name=NetJ4_5
+Added Pin To Net: NetName=NetJ4_6 Pin=J4-6
+Added Pin To Net: NetName=NetJ4_6 Pin=U3-39
+Added Net: Name=NetJ4_6
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U3-44
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=FC_board Member=Component R6 10k

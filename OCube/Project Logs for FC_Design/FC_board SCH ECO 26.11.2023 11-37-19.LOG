@@ -1,0 +1,32 @@
+Replace Part BZ1 MB9650B05NP in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with MB9650B05NP from FC_Design_LIBINT.IntLib
+Replace Part C1 CAP CER 100nF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 100nF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C2 CAP CER 1uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 1uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C3 CAP CER 1uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 1uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C4 CAP CER 100nF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 100nF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C5 CAP CER 22pF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 22pF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C6 CAP CER  0.1uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER  0.1uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C7 CAP CER 22pF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 22pF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C8 CAP CER  0.1uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER  0.1uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C9 CAP CER 22pF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 22pF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C10 CAP CER  0.1uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER  0.1uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C12 CAP CER 10nF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 10nF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C13 CAP CER 2.2uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 2.2uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C14 CAP CER 22pF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 22pF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C15 CAP CER 10uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 10uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part C17 CAP CER 10uF 0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with CAP CER 10uF 0805 from FC_Design_LIBINT.IntLib
+Replace Part J1 GPS_JST_5PIN in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with GPS_JST_5PIN from FC_Design_LIBINT.IntLib
+Replace Part J2 TELEM_JST_5PIN in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with TELEM_JST_5PIN from FC_Design_LIBINT.IntLib
+Replace Part J3 POWER_SOCKET in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with POWER_SOCKET from FC_Design_LIBINT.IntLib
+Replace Part J4 Motor_Outputs in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with Motor_Outputs from FC_Design_LIBINT.IntLib
+Replace Part J5 RECIVER in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with RECIVER from FC_Design_LIBINT.IntLib
+Replace Part P1 Header 4X2 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with Header 4X2 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 10 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with Header 10 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 10 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with Header 10 from Miscellaneous Connectors.IntLib
+Replace Part Q1 BC817-40-HT in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with BC817-40-HT from FC_Design_LIBINT.IntLib
+Replace Part R4 RESISTOR_0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with RESISTOR_0805 from FC_Design_LIBINT.IntLib
+Replace Part R5 RESISTOR_0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with RESISTOR_0805 from FC_Design_LIBINT.IntLib
+Replace Part R6 RESISTOR_0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with RESISTOR_0805 from FC_Design_LIBINT.IntLib
+Replace Part R7 RESISTOR_0805 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with RESISTOR_0805 from FC_Design_LIBINT.IntLib
+Replace Part SW1 button in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with button from Integrated_LibraryFCLibPkg.IntLib
+Replace Part U4 BNO080 in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with BNO080 from FC_Design_LIBINT.IntLib
+Replace Part Y2 STM_CRYSTAL in C:\Users\Ogi\Desktop\FC_Design\FC_Design\FC_board.SchDoc with STM_CRYSTAL from FC_Design_LIBINT.IntLib

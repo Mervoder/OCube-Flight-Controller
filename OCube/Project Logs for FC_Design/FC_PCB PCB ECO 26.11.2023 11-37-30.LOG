@@ -1,0 +1,14 @@
+Change Component Comment : Designator=Y2 Old Comment=8.000MHZ New Comment=ABM3-8.000MHZ-D2Y-T
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found CRYSTAL_32_15
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Class Member: Failed to add class member : Component C16 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component C19 CAP CER 100nF 0805
+Add Class Member: Failed to add class member : Component Y1 32.768kHz
+Added Room: Name=FC_board
